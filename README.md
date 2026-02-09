@@ -8,7 +8,7 @@ Modern, minimalist portfolio website showcasing my work as a Backend Software En
 - **TypeScript** - Type-safe development
 - **TailwindCSS** - Utility-first styling
 - **Framer Motion** - Smooth animations
-- **FormSubmit.co** - Contact form handling
+- **FormSubmit.co** - Contact form handling.
 
 ## Quick Start
 
