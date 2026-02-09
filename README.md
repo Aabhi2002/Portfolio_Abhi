@@ -1,51 +1,99 @@
-# Portfolio
+<h1 align="center">Hi 👋, I'm Abhishek Rajput</h1>
+<h3 align="center">🚀 Full Stack Developer | GenAI Engineer | SaaS Builder</h3>
 
-Modern, minimalist portfolio website showcasing my work as a Backend Software Engineer.
+<p align="center">
+  <a href="https://abhishek-rajput.me"><strong>🌐 Portfolio</strong></a> •
+  <a href="https://github.com/Aabhi2002"><strong>GitHub</strong></a> •
+  <a href="https://linkedin.com/in/abhishekrajput0007"><strong>LinkedIn</strong></a>
+</p>
 
-## Tech Stack
+---
 
-- **Next.js 15** - React framework with App Router
-- **TypeScript** - Type-safe development
-- **TailwindCSS** - Utility-first styling
-- **Framer Motion** - Smooth animations
-- **FormSubmit.co** - Contact form handling.
+## 🧑‍💻 About Me
 
-## Quick Start
+✨ Passionate Full Stack Developer & GenAI Engineer  
+💡 I love building real-world SaaS products & AI-powered tools  
+🚀 Focused on scalable backend systems & modern UI/UX  
+📍 Bangalore, India  
 
-```bash
-# Install dependencies
-npm install
+---
 
-# Run development server
-npm run dev
-```
+## ⚡ Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) to view the portfolio.
+### 🚀 Frontend
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
 
-## Build
+### 🧠 Backend
+- Node.js
+- Express.js
+- Java (Spring Boot)
+- REST APIs
 
-```bash
-npm run build
-npm start
-```
+### 🗄️ Database
+- MongoDB
+- MySQL
+- Supabase
 
-## Features
+### 🤖 AI / GenAI
+- OpenAI APIs
+- RAG Pipelines
+- AI Agents
+- n8n Automations
 
-- Responsive mobile-first design
-- Performance optimized with code splitting and lazy loading
-- SEO ready with metadata and structured data
-- Contact form with spam protection
-- Smooth scroll animations
+### ☁️ DevOps
+- Docker
+- GitHub Actions
+- Vercel
+- Cloud Deployment
 
-## Contact
+---
 
-**Fatemeh Rostami**
-Backend Software Engineer
+## 🌟 Featured Projects
 
-- Email: frostami.1988@gmail.com
-- LinkedIn: [linkedin.com/in/frostami](https://linkedin.com/in/frostami)
-- GitHub: [github.com/timi-ro](https://github.com/timi-ro)
+### 🧠 AI Appointment Booking System
+> AI-driven booking workflow using OpenAI + n8n automation
 
-## License
+### 📞 AI Voice Calling Agent
+> Real estate lead qualification AI caller
 
-MIT
+### 📂 Secure File Sharing App
+> Firebase-based file sharing with auto-delete
+
+### 🧩 Habit Tracker SaaS
+> Streak tracking & analytics dashboard
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aabhi2002&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aabhi2002&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+📧 Email: **abhishekrajput90094@gmail.com**  
+🌐 Portfolio: **https://abhishek-rajput.me**  
+💼 LinkedIn: **linkedin.com/in/abhishekrajput0007**
+
+---
+
+## ✨ Fun Fact
+
+> I build MVPs faster than people finalize ideas 😄
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
