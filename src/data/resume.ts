@@ -14,7 +14,7 @@ export const resume: Resume = {
     {
       company: 'NuShift Technology',
       role: 'Generative AI Engineer',
-      duration: 'November 2024 - Present',
+      duration: 'November 2025 - Present',
       achievements: [
         'Developing AI-driven healthcare systems for intelligent question understanding and routing',
         'Designing RAG pipelines with vector databases for high-accuracy semantic search',
